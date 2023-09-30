@@ -1,5 +1,6 @@
 # About app
 This is my education project. I'm starting to learn ReactJS with this project
+In this app i realized list of posts, filtering and sorting for them and also paging
 
 # Getting Started with Create React App
 
